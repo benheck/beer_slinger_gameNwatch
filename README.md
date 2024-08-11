@@ -22,6 +22,11 @@ Left/right - dash to pick up tips. If you collect 5 tips you can spawn dancing g
 "A" - hold to pour beer, release to sling beer. If you start a pour on an empty row, move barkeep up or down to cancel the pour.
 "B" - Spawns distracting dancing girls if you collect 5 tips. This removes 5 tips so it counts against your end of level tip bonus. If you collect 5 tips, don't spawn the girls, then collect 5 more tips, you still only get 1 girl spawn. You must use the girl spawn to earn another one.
 
+POWER ON/OFF:
+
+The gray power button on the right-hand side puts the unit into sleep mode and wakes it up. The CPU is still running in ultra-low power mode, so it may eventually drain the battery and require recharging.
+
+
 GENERAL STRATEGY:
 
 When the bar isn't busy/early on in levels, collect at least 5 tips so you can spawn the girls when it gets busy later on.
