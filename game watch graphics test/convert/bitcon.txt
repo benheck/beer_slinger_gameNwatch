@@ -1,0 +1,9 @@
+Converts .bmp files to Game & Watch format
+
+PHOTOSHOP:
+Flip row order
+Save as 16 bit color format BMP
+
+bitcon bitmap.bmp > bitmap.c
+
+Magenta becomes transparent

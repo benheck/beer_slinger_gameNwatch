@@ -1,0 +1,4 @@
+lcd.c:9:6:lcd_backlight_off	8	static
+lcd.c:14:6:lcd_backlight_on	8	static
+lcd.c:20:6:bufferSwap	16	static
+lcd.c:31:6:lcd_init	16	static

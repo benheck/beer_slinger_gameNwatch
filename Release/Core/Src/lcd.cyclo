@@ -1,0 +1,5 @@
+../Core/Src/lcd.c:16:6:lcd_backlight_off	1
+../Core/Src/lcd.c:22:6:lcd_backlight_on	1
+../Core/Src/lcd.c:28:6:bufferSwap	2
+../Core/Src/lcd.c:39:6:lcd_init	1
+../Core/Src/lcd.c:163:6:lcd_deinit	1

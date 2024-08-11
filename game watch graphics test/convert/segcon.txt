@@ -1,0 +1,7 @@
+Converts black & white images to LCD simulated images
+
+Must have a horizontal size in a multiple of 8
+
+Black and white pixels only
+
+24 bit file format (unlike Bitcon.exe)
